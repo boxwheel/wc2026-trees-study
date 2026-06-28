@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "flywheel": {
+      "type": "http",
+      "url": "https://flywheel.paradigma.inc/mcp-server",
+      "headers": {
+        "Authorization": "Bearer fwk_de98f381e9af4c9594d8783b0e09692d.5aQvEfbir7fCC6WDnr1hueCKAvpzPpbPjqv-HfoMkKI"
+      }
+    }
+  }
+}
